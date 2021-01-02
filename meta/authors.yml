@@ -2,12 +2,4 @@ authors:
   - slug: acilgin
     name: Adem
     introduction:
-      Software Engineer | Java | Linux | Bash | C/C++
-  - slug: muslm
-    name: Müslüm
-    introduction:
-      Software Engineer | Java | Linux | Bash | C/C++
-  - slug: admin
-    name: admin
-    introduction:
-      General Blog Admin
+      Software Engineer
