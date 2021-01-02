@@ -7,7 +7,7 @@ authors:
     name: Müslüm
     introduction:
       Software Engineer | Java | Linux | Bash | C/C++
- - slug: admin
+  - slug: admin
     name: admin
     introduction:
       General Blog Admin
