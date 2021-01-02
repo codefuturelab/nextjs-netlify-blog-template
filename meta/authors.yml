@@ -1,6 +1,13 @@
 authors:
-  - slug: wutali
-    name: Takahiro Fujiwara
+  - slug: acilgin
+    name: Adem
     introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
-      Python / Golang / React
+      Software Engineer | Java | Linux | Bash | C/C++
+  - slug: muslm
+    name: Müslüm
+    introduction:
+      Software Engineer | Java | Linux | Bash | C/C++
+ - slug: admin
+    name: admin
+    introduction:
+      General Blog Admin
