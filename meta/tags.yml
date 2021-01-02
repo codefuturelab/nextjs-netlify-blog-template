@@ -1,13 +1,19 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: blog
+    name: blog
+  - slug: java
+    name: Java
+  - slug: ccpp
+    name: C/C++
+  - slug: linux
+    name: Linux
+  - slug: android
+    name: Android
+  - slug: bash
+    name: Bash
+  - slug: web
+    name: web
+  - slug: devops
+    name: devops
+  - slug: db
+    name: db
